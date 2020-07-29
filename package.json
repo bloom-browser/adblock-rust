@@ -19,11 +19,11 @@
     "Anton Lazarev <alazarev@brave.com"
   ],
   "license": "MPL-2.0",
-  "homepage": "https://github.com/brave/adblock-rust#readme",
+  "homepage": "https://github.com/bloom-browser/adblock-rust#readme",
   "bugs": {
-    "url": "https://github.com/brave/adblock-rust/issues"
+    "url": "https://github.com/bloom-browser/adblock-rust/issues"
   },
-  "repository": "https://github.com/brave/adblock-rust.git",
+  "repository": "https://github.com/bloom-browser/adblock-rust.git",
   "dependencies": {
     "neon-cli": "0.4.0"
   },

@@ -6,7 +6,7 @@ authors = ["Andrius Aucinas <aaucinas@brave.com>", "Anton Lazarev <alazarev@brav
 edition = "2018"
 
 description = "Native Rust module for Adblock Plus syntax (e.g. EasyList, EasyPrivacy) filter parsing and matching."
-repository = "https://github.com/brave/adblock-rust/"
+repository = "https://github.com/bloom-browser/adblock-rust/"
 license = "MPL-2.0"
 readme = "README.md"
 
